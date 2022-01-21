@@ -1,2 +1,2 @@
 # Faculty
-Homework and different projects for uni  
+Homework and different projects for university  
