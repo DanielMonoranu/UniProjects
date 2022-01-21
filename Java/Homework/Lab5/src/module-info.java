@@ -1,0 +1,2 @@
+module Laboratorul5 {
+}
