@@ -1,0 +1,3 @@
+jucarie;2.75;3
+zahar;1.5;50
+carne;14.12;12

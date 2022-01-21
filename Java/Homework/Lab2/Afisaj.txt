@@ -1,0 +1,5 @@
+Nume:jucarie, pret:2.75, cantitate:3
+Nume:zahar, pret:1.5, cantitate:50
+Nume:carne, pret:14.12, cantitate:12
+Produsul cel mai scump este: Nume:carne, pret:14.12, cantitate:12
+Produsul cel mai ieftin este: Nume:zahar, pret:1.5, cantitate:50
