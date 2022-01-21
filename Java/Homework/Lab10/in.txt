@@ -1,0 +1,5 @@
+Marcel;boacter;2017-11-20;300
+Axinte;salahor;2020-12-31;100
+Emilache;boss;2010-10-10;4000
+Bosstan;sef;2021-05-23;5000.34
+Vladimiros;director;2021-10-22;400.12
