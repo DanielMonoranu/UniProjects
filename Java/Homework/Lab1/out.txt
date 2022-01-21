@@ -1,0 +1,3 @@
+Suma este:27
+Media aritmetica este4.5
+Nr. maxim este: 8 iar cel mai mic este 2
