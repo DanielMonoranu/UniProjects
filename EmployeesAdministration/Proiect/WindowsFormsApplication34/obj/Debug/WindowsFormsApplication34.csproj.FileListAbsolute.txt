@@ -1,0 +1,73 @@
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\WindowsFormsApplication34.exe.config
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\WindowsFormsApplication34.exe
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\WindowsFormsApplication34.pdb
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.Form1.resources
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.Properties.Resources.resources
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.exe
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.pdb
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\WindowsFormsApplication34.exe.config
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.exe
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.pdb
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\WindowsFormsApplication34.exe
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\WindowsFormsApplication34.pdb
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.csprojResolveAssemblyReference.cache
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.Form1.resources
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.Properties.Resources.resources
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.csproj.GenerateResource.Cache
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\FlashControlV71.dll
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\mgfma\Desktop\WindowsFormsApplication34\WindowsFormsApplication34\bin\Debug\stdole.dll
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\bin\Debug\WindowsFormsApplication34.exe.config
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.exe
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.pdb
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\bin\Debug\WindowsFormsApplication34.exe
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\bin\Debug\WindowsFormsApplication34.pdb
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\bin\Debug\FlashControlV71.dll
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\bin\Debug\stdole.dll
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.Form1.resources
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.Properties.Resources.resources
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.csproj.GenerateResource.Cache
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.Adaugare.resources
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.Modificare.resources
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.Parolacs.resources
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.csproj.AssemblyReference.cache
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.csproj.SuggestedBindingRedirects.cache
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.csproj.CoreCompileInputs.cache
+C:\Users\mgfma\Desktop\Proiect\WindowsFormsApplication34\obj\Debug\WindowsFormsApplication34.csproj.CopyComplete

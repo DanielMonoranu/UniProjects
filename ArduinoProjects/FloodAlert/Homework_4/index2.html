@@ -1,0 +1,138 @@
+<head>
+	<link rel="stylesheet" href="styles.css">
+	<style>
+		#color_id {
+			height: 70px;
+			background-color: #000;
+			border-radius: 12px;
+			box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+			width: auto;
+
+
+		}
+	</style>
+</head>
+
+
+<body>
+
+	<div class="title-card">
+		<h1>HomeInfo Project</h1>
+		<p>Made by Monoranu Daniel and Moț Laurențiu</p>
+	</div>
+	<div class="main-page">
+
+
+		<p class="text"> The current temperature is 23 degrees Celsius. </p>
+		<p class="text"> The water level is normal. </p>
+
+		<div style="padding: 20px;">
+			<form action="/t">
+				<label for="temp"></label>
+				<input hidden type="text" id='temp' name="temp_form">
+				<input class="my-button" type="submit" value="Ask for temp">
+			</form>
+		</div>
+
+		<button class="my-button" onclick="document.location='led_on'">LED ON</button>
+
+		<button class="my-button" onclick="document.location='led_off'">LED OFF</button>
+
+		<p></p>
+
+		<section>
+			<canvas id="color_picker" width="200" height="200" value="#ff0000"></canvas>
+			<p class="text">
+				Hex Color Code: <span id="code">#000000</span>
+			<div style="padding: 20px;">
+				<form action="/c">
+					<label for="tbcolor"> </label>
+					<input hidden type="text" id='tbcolor' name="color_form">
+					<input class="my-button" type="submit" value="Submit color">
+				</form>
+			</div>
+			<div id="color_id"></div>
+			</p>
+		</section>
+
+		<p></p>
+
+		<div class="my-input">
+			<form action="/m">
+				<label for="tbmessage"> </label>
+				<input type="text" id='tbmessage' name="message_form">
+
+				<input class="my-button" type="submit" value="Send a message">
+			</form>
+		</div>
+
+
+	</div>
+
+
+	<!-- For color picker -->
+	<script>
+		color_picker = document.getElementById("color_picker");
+		code = document.getElementById("code");
+		color_id = document.getElementById("color_id");
+		color_picker.onmousedown = select_color;
+
+		color_picker_add();
+
+		function color_picker_add() {
+			color_picker_ = color_picker.getContext("2d"),
+				center_x = (color_picker.width) / 2,
+				center_y = (color_picker.height) / 2,
+				sx = center_x,
+				sy = center_y;
+			palette = new color_picker_element(center_x, center_y, sx, sy);
+			palette.draw();
+		}
+
+		function ColorToHex(color) {
+			let hex = color.toString(16);
+			return hex.length === 1 ? "0" + hex : hex;
+		}
+
+		function select_color(e) {
+			var x = e.pageX - color_picker.offsetLeft,
+				y = e.pageY - color_picker.offsetTop,
+				pixel = color_picker.getContext("2d").getImageData(x, y, 1, 1).data;
+			//console.log(pixel);
+			pixelColor = "rgb(" + pixel[0] + ", " + pixel[1] + ", " + pixel[2] + ")";
+			hexColor = "#" + ColorToHex(pixel[0]) + ColorToHex(pixel[1]) + ColorToHex(pixel[2]);
+			hexColorToUpper = hexColor.toUpperCase();
+			code.innerHTML = hexColorToUpper;
+			color_id.style.backgroundColor = pixelColor;
+
+			culoare = String(hexColorToUpper);
+			console.log(culoare);
+			var textbox = document.getElementById('tbcolor');
+			textbox.value = culoare;
+
+
+		}
+
+		function color_picker_element(center_x, center_y, sx, sy) {
+			this.center_x = center_x;
+			this.center_y = center_y;
+			this.sx = sx;
+			this.sy = sy;
+			this.draw = function () {
+				for (var i = 0; i < 360; i += 0.1) {
+					var rad = (i - 45) * (Math.PI) / 180;
+					color_picker_.strokeStyle = "hsla(" + i + ", 100%, 50%, 1.0)";
+					color_picker_.beginPath();
+					color_picker_.moveTo(center_x, center_y);
+					color_picker_.lineTo(center_x + sx * Math.cos(-rad), center_y + sy * Math.sin(-rad));
+					color_picker_.stroke();
+				}
+			}
+		}
+
+	</script>
+	<!-- end color picker code -->
+
+</body>
+
+</html>
