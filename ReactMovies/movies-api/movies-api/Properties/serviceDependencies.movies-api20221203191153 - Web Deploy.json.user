@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2022-12-03T17:21:35.8915076Z"
+    },
+    "identityapp1": {
+      "restored": true,
+      "restoreTime": "2022-12-03T17:14:29.802808Z"
+    },
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2022-12-03T17:14:35.2721342Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "a55e4003-8d43-4b11-b40b-b15887c1ce7d"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "react-movies-app"
+    }
+  }
+}

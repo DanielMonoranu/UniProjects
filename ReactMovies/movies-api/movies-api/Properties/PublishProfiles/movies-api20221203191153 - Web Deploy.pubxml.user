@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAP4/6gR3CBkKtcIlbmOAYCQAAAAACAAAAAAAQZgAAAAEAACAAAAC3yVtrvLi2aIWAznuT5rXx+hozAS/SasZ8vTh7mjb1VQAAAAAOgAAAAAIAACAAAAAzKe4oDI/9oBLjT+nqNzaHKt/bM0NXDQg8PIuVws3gjYAAAAAN0BWJW8k9c/AclW9cNMQnhqPHX+a9DGAkOS3EHhkOOp4iebCX1mXFeDzghsi4mwxHQzQB4u/JXHoJYjbqoPT35/5BeRxZAAsBAQoivzKjAeILWV+USmscHs0Jap6QKLNNeMSpgGTIaw7wz+iBT/ArdnRsfIB58isDmahSWDzgs0AAAAAdhtvNmAAkAokDpTppCRCR4PpwQcpTyMaB5gpRPpm5TrR7wqrkj3X96MhIzu0sFx39h8xSi0UHWPrMhHBBITwE</EncryptedPassword>
+    <History>True|2022-12-03T17:28:50.1448407Z;True|2022-12-03T19:25:17.9127736+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="movies_api.ApplicationDbContext">
+      <Value>Data Source=tcp:movies-apidbserver.database.windows.net,1433%3bInitial Catalog=movies-api_db%3bUser Id=danimono%40movies-apidbserver%3bPassword=ReactMovies1!</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

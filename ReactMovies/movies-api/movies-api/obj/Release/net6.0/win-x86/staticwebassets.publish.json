@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "lCNitZNCwTk2eJe1ea/ZHjQsGCDgIAPXFaRrJFoEEJQ=",
+  "Source": "movies-api",
+  "BasePath": "_content/movies-api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "movies-api\\wwwroot",
+      "Source": "movies-api",
+      "ContentRoot": "C:\\Users\\mgfma\\Desktop\\ReactProject\\movies-api\\movies-api\\wwwroot\\",
+      "BasePath": "_content/movies-api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
